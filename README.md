@@ -10,3 +10,4 @@ Análisis estadístico mediante Modelos Lineales Generalizados (GLM) para identi
 
 * **Código en R:** Contiene el modelado, limpieza de datos y evaluación de supuestos (`modeloglm.R`).
 * **Informe:** Documento detallado con los resultados del análisis y conclusiones (`Proyecto_MLG.pdf`).
+* **Datos:** Archivo txt  (`ESTRUCTURA CENSO ARBOLADO FASE IV.rar`).
